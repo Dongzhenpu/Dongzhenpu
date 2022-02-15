@@ -122,5 +122,5 @@
 </table>
 
 ### My Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongzhenpu&show_icons=true&hide_boarder=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongzhenpu&layout=compact)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongzhenpu&show_icons=true&hide_boarder=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongzhenpu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
