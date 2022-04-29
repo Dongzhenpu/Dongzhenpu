@@ -2,9 +2,8 @@
 
 - 邮箱：dongzp97@163.com
 - 职业：python开发
-- 爱好：唱，(没有跳、rap)，篮球
 - 现居：北京
-- 标签：努力做一个快乐的菜鸟
+- 标签：菜鸟
 
 ### What I Use
 
@@ -56,19 +55,15 @@
         <img height="64px" src="https://cdn.svgporn.com/logos/postman-icon.svg"><br><br>
       </td>
       <td width="25%" align="center">
-        <span>Chrome</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/chrome.svg"><br><br>
+        <span>Vim</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg"><br><br>
       </td>
       <td width="25%" align="center">
-        <span>Curl</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/curl.svg"><br><br>
+        <span>Sublimetext</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg"><br><br>
       </td>
     </tr>
     <tr valign="top">
-      <td width="25%" align="center">
-        <span>PostgreSQL</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg"><br><br>
-      </td>
       <td width="25%" align="center">
         <span>Elasticsearch</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/elasticsearch.svg"><br><br>
@@ -80,6 +75,10 @@
       <td width="25%" align="center">
         <span>Kibana</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/kibana.svg"><br><br>
+      </td>
+      <td width="25%" align="center">
+        <span>Markdown</span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg"><br><br>
       </td>
     </tr>
     <tr valign="top">
@@ -99,28 +98,12 @@
         <span>Linux</span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/linux-tux.svg"><br><br>
       </td>
-      </tr>
-      <tr valign="top">
-      <td width="25%" align="center">
-        <span>Bash</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/bash-icon.svg"><br><br>
-      </td>
-      <td width="25%" align="center">
-        <span>Vim</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/vim.svg"><br><br>
-      </td>
-      <td width="25%" align="center">
-        <span>Markdown</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/markdown.svg"><br><br>
-      </td>
-      <td width="25%" align="center">
-        <span>Sublimetext</span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/sublimetext-icon.svg"><br><br>
-      </td>
     </tr>
   </tbody>
 </table>
 
-### My Stats
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dongzhenpu&show_icons=true&hide_boarder=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dongzhenpu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # (### My Stats)
+
+[//]: # ([![GitHub stats]&#40;https://github-readme-stats.vercel.app/api?username=Dongzhenpu&show_icons=true&hide_boarder=true&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Dongzhenpu&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
