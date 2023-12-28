@@ -1,6 +1,6 @@
 ### About Me
 
-- 🌱 I’m currently using `Python` and `Golang`
+- 🌱 I'm a backend developer currently using `Python` and `Golang`
 
 ### My Stats
 
