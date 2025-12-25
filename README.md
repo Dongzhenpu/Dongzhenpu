@@ -37,7 +37,7 @@
 
 <table>
   <tr align="center">
-    <td><img height="48" src="https://cdn.svgporn.com/logos/mongodb.svg"><br>MongoDB</td>
+    <td><img height="48" src="https://cdn.svgporn.com/logos/mongodb.svg"></td>
     <td><img height="48" src="https://cdn.svgporn.com/logos/redis.svg"><br>Redis</td>
     <td><img height="48" src="https://cdn.simpleicons.org/clickhouse"><br>ClickHouse</td>
     <td><img height="48" src="https://cdn.svgporn.com/logos/elasticsearch.svg"><br>Elasticsearch</td>
@@ -70,9 +70,9 @@
 #### Containers & Automation
 <table>
   <tr align="center">
-    <td><img height="48" src="https://cdn.worldvectorlogo.com/logos/docker.svg"><br>Docker</td>
-    <td><img height="48" src="https://cdn.svgporn.com/logos/kubernetes.svg"><br>Kubernetes</td>
-    <td><img height="48" src="https://cdn.svgporn.com/logos/ansible.svg"><br>Ansible</td>
+    <td><img height="48" src="https://cdn.worldvectorlogo.com/logos/docker.svg"></td>
+    <td><img height="48" src="https://cdn.svgporn.com/logos/kubernetes.svg"><br>K8s</td>
+    <td><img height="48" src="https://cdn.svgporn.com/logos/ansible.svg"></td>
   </tr>
 </table>
 
